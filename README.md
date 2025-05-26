@@ -5,22 +5,16 @@
 ###
 
 ###
+## 👨‍💻 About Me
 
-<h2 align="center">Hi!,I'm a Full-Stack Developer from Kurdistan Passionate about building clean, responsive web and mobile applications with a focus on performance, scalability, and user experience.
+I'm a passionate **Full-Stack Developer** from **Kurdistan** who loves crafting responsive, dynamic web and mobile applications.
 
-📱 Android Developer – Native apps using Java
-
-🌐 Frontend Developer – HTML, CSS, JavaScript,react.js, modern UI practices
-
-🛠 Backend Developer – Laravel (PHP) + MySQL
-
-⚙️ API Integration – Smooth communication between apps and servers
-
-🚀 Performance – Clean code, optimization, scalability
-
-🔧 Tools – Git for version control, collaborative workflows
-<br>
-</h2>
+- 📱 Develop **native Android apps** using **Java**
+- 🌐 Build modern, responsive web interfaces with **HTML, CSS, JavaScript**
+- 🛠 Create secure, scalable backends using **Laravel (PHP)** and **MySQL**
+- 🔄 Ensure smooth client-server interaction with reliable **API integration**
+- ⚙️ Follow best practices in **code organization** and **performance optimization**
+- 🔧 Use **Git** for version control and collaborative development
 
 # 📊 GitHub Stats:
 
