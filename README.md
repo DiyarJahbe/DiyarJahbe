@@ -6,7 +6,20 @@
 
 ###
 
-<h2 align="center">A passionate fullstack developer from Kurdistan <br>
+<h2 align="center">Hi!,I'm a Full-Stack Developer from Kurdistan Passionate about building clean, responsive web and mobile applications with a focus on performance, scalability, and user experience.
+
+📱 Android Developer – Native apps using Java
+
+🌐 Frontend Developer – HTML, CSS, JavaScript,react.js, modern UI practices
+
+🛠 Backend Developer – Laravel (PHP) + MySQL
+
+⚙️ API Integration – Smooth communication between apps and servers
+
+🚀 Performance – Clean code, optimization, scalability
+
+🔧 Tools – Git for version control, collaborative workflows
+<br>
 </h2>
 
 # 📊 GitHub Stats:
