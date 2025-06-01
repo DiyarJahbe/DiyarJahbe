@@ -9,7 +9,7 @@
 
 I'm a passionate **Full-Stack Developer** from **Kurdistan** who loves crafting responsive, dynamic web and mobile applications.
 
-- 📱 Develop **native Android apps** using **Java**
+- 📱 Develop **native Android apps** using **Java and Kotlin**
 - 🌐 Build modern, responsive web interfaces with **HTML, CSS, JavaScript**
 - 🛠 Create secure, scalable backends using **Laravel (PHP)** and **MySQL**
 - 🔄 Ensure smooth client-server interaction with reliable **API integration**
